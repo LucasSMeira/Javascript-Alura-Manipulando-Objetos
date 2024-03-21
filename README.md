@@ -1,8 +1,6 @@
 # Javascript-Alura-Manipulando-Objetos
 JavaScript: conhecendo objetos -> 02 Manipulando Objetos-> Desafio: exercícios
 
-
-
 1 - Crie um arquivo chamado infoPessoa.js. Nesse arquivo, crie um objeto chamado pessoa que represente informações sobre uma pessoa. Este objeto deve ter as seguintes propriedades:
 
     nome (string): Nome da pessoa.
