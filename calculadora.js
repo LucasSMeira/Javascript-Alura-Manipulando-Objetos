@@ -29,4 +29,4 @@ console.log(calculadora.soma(10,2));
 console.log(calculadora.subtracao(10,2));
 console.log(calculadora.multiplicacao(10,2));
 console.log(calculadora.divisao(10,2));
-console.log(calculadora.media([10,10,10,10]));
+console.log(calculadora.media([20,10,10,10]));
