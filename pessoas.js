@@ -29,7 +29,7 @@ console.log("*** Exercício 3 *** ");
 
 const filtrarPorCidade = (listaDePessoas,cidade) => {
     const listaFiltrada = listaDePessoas.forEach( pessoa  => {
-        if(pessoa.cidade === cidade){
+        if(pessoa.cidade === cidade) {
             console.log(pessoa.nome + "\n" + pessoa.idade +"\n"+ pessoa.cidade + "\n-----------------");
         }
     });
